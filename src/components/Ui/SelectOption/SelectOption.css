@@ -1,0 +1,21 @@
+.selectOption {
+    display:flex;
+    flex-direction:column;
+}
+
+.selectOption > label {
+    font-size: 0.875rem;
+    color: #4a5568;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: .25rem;
+}
+
+.selectOption > select {
+    padding: .375rem .75rem;
+    border-radius: .25rem;
+    border: 1px solid #e2e8f0;
+    margin-right: 10px;
+    font-size: 1rem;
+    color: #1a202c;
+}

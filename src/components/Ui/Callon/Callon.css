@@ -1,0 +1,14 @@
+.callon {
+    margin: 1.25rem 0;
+    padding:1rem 0;
+    border-top: 1px solid #e2e8f0;
+    border-bottom: 1px solid #e2e8f0;
+}
+.callon > p {
+    font-size: 0.875rem;
+    color: #2d3748;
+}
+.callon > h4 {
+    font-size: 1.25rem;
+    color: #e53e3e;
+}

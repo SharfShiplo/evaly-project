@@ -1,0 +1,24 @@
+.imageButton {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 80px;
+    background-color:#fff;
+    border: none;
+    cursor: pointer;
+    margin: 0 3px;
+}
+.imageButton > img {
+    padding: 4px;
+    width:100%;
+    height:100%;
+    object-fit: contain;
+}
+@media (max-width: 959.98px){
+    .imageButton {
+    width:60px;
+    height:60px
+}
+}

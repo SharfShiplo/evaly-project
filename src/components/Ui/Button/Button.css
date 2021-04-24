@@ -1,0 +1,13 @@
+.my_button {
+    width: 100%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 10px 20px;
+    background: #c9151b;
+    color: white;
+    border: none;
+    border-radius: .25rem;
+    cursor: pointer;
+}

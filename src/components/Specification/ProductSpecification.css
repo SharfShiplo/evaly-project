@@ -1,0 +1,23 @@
+.productspecification {
+    margin-top: 2rem;
+    background-color:#fff;
+    box-shadow: 0 0 5px 0 rgb(0 0 0 / 5%);
+}
+.productspecification__title {
+    padding: 1rem;
+    background-color:#f7fafc;
+}
+
+.productspecification__title > h2 {
+    font-size: 1.5rem;
+    color:#2d3748;
+    line-height:1.2;
+    font-weight: normal;
+}
+.productspecification__description {
+    padding: 1rem;
+    overflow: hidden;
+    font-size: 0.875rem;
+    color:#2d3748;
+    white-space: pre-line;
+}
